@@ -1,1 +1,1 @@
-# mchost
+# MC Hosting
